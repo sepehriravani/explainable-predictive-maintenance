@@ -138,9 +138,9 @@ The final model prioritizes recall because detecting potential failures is the m
 
 ## Notebooks
 
-* `01_data_exploration.ipynb`: Dataset inspection and exploratory analysis
-* `02_data_preprocessing.ipynb`: Encoding, data splitting, and scaling
-* `03_modeling_and_evaluation.ipynb`: Modeling, evaluation, explainability, and error analysis
+* [01 — Data Exploration](notebooks/01_data_exploration.ipynb): Dataset inspection and exploratory analysis
+* [02 — Data Preprocessing](notebooks/02_data_preprocessing.ipynb): Encoding, data splitting, and feature scaling
+* [03 — Modeling and Evaluation](notebooks/03_modeling_and_evaluation.ipynb): Modeling, evaluation, explainability, and error analysis
 
 ## Limitations
 
